@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-Navabrind/static/css/main.d1e55310.css",
+    "main.js": "/Task-Navabrind/static/js/main.87113ddd.js",
+    "index.html": "/Task-Navabrind/index.html",
+    "main.d1e55310.css.map": "/Task-Navabrind/static/css/main.d1e55310.css.map",
+    "main.87113ddd.js.map": "/Task-Navabrind/static/js/main.87113ddd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e55310.css",
+    "static/js/main.87113ddd.js"
+  ]
+}
